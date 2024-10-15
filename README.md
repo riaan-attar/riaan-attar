@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on AceUp
+- 🌱 I’m currently learning MERN
+- 👯 I’m looking to collaborate on Python projects
+- 💬 Ask me about DEV
+- 📫 How to reach me: attarriaan6226@gmaqil.com
+- 😄 Pronouns: he/him/his
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamriaan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riaan-attar-) 
 
