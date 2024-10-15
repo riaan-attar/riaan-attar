@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about DEV
-- 📫 How to reach me: attarriaan6226@gmaqil.com
+- 📫 How to reach me: attarriaan6226@gmail.com
 - 😄 Pronouns: he/him/his
 - 
 ## 🌐 Socials:
